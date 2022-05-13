@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+div {
+    background-color: #ff000022;
+    width: 200px;
+    height: 50px;
+    margin: 10px;
+    padding: 10px;
+    border: solid 5px blue;
+    border-radius: 50px;
+    /* Aplicar margin em todos os lados igualmente */
+    /* margin: 100px; */
+  
+    /* Aplicar margin no vertical e horizontal */
+    /* margin: 100px 200px; */
+  
+    /* Aplicar margin no top, right, bottom, left */
+    /* margin: 10px 20px 30px 40px; */
+  
+    /* Aplicar margin no top, horizontal e bottom */
+    /* margin: 10px 30px 40px; */
+  
+    /* margin: 0 0 0 10px; */
+  
+    /* margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px; */
+  }
